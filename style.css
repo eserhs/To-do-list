@@ -1,0 +1,107 @@
+.ulClass{
+   
+   display: flex;
+    color: rgb(0, 0, 0);
+    margin: 0.0rem;
+    align-items: center;
+    transform: .5s all ease;
+   
+}
+.conternet
+{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    cursor: pointer;
+}
+
+
+
+#pll{
+    list-style: none;
+    min-height:  30%;
+   
+
+}
+#inputText{
+    align-content: center;
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+
+    width: 35rem;
+
+}
+#inputText:hover{
+    color: black;
+    background-color:aliceblue;
+}
+
+
+
+#formID{
+    align-content: center;
+    display:flex;
+    justify-content: center;
+
+}
+#button{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    width: 10rem;
+}
+#button:hover{
+    color: black;
+    background-color:aliceblue;
+}
+
+#h1ID {
+ text-align-last: center;
+    color: aliceblue;
+    background-color: coral;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.imgID{
+text-align: center;
+margin-bottom: 20px;
+
+
+}
+.chek-btn{
+    background-color: rgb(232, 12, 12);
+    color: aliceblue;
+    border-radius: 40%;
+    padding: 5px;
+    margin-top: 2px;
+    margin-left:1rem;
+   
+
+
+
+
+}
+.chek-btn:hover{
+    background-color: rgb(242, 242, 242);
+    color: rgb(232, 12, 12);
+}
+.li-class {
+    font-size:24px;
+ 
+
+}
+.fall{   
+ 
+ 
+    transform: translateY(8rem) rotateZ(365deg);
+    opacity: 0;
+}
+.compend{
+
+    opacity: 0.5;
+    text-decoration: line-through;
+}
